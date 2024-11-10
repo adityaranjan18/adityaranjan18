@@ -24,7 +24,7 @@ Welcome to my GitHub profile! I'm a CSE student pursuing a Bachelor of Engineeri
 
 ## 📫 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-ranjan-36330b2a5)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaranjan18/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adityaranjan_18/)
 
 ## 🤝 Support Me
 If you like my work, consider buying me a coffee! 
